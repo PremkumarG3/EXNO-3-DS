@@ -31,8 +31,30 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![alt text](Output-1.png)
+![alt text](Output-2.png) 
+![alt text](Output-3.png) 
+![alt text](Output-4.png) 
+![alt text](Output-5.png)
+![alt text](Output-6.png) 
+![alt text](Output-7.png)
+![alt text](Output-8.png)
+![alt text](Output-9.png)
+![alt text](Output-10.png)
+![alt text](Output-11.png)
+![alt text](Output-12.png)
+![alt text](Output-13.png)
+![alt text](Output-14.png)
+![alt text](Output-15.png)
+![alt text](Output-16.png)
+![alt text](Output-17.png)
+![alt text](Output-18.png)
+![alt text](Output-19.png)
+![alt text](Output-20.png)
+![alt text](Output-21.png)
+
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+  The Feature Encoding and Transformation process is executed and the data is saved to the file successfully.
 
        
